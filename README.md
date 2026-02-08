@@ -18,6 +18,8 @@
 ### Theory about color
 
 **Serie Цветовая вычислительная фотография.**
+
 [Часть 1: Теория цвета](https://habr.com/ru/companies/airi/articles/901284/)
+
 [Часть 2: Стандарты CIE 1931](https://habr.com/ru/companies/airi/articles/916116/)
 
